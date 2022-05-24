@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T06:47:34.234Z" agent="5.0 (Macintosh)" etag="OCF2sagtH1SRKk9s8yhJ" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-24T04:53:28.849Z" agent="5.0 (Macintosh)" etag="9TBXDkk9nDI5U_md1Uah" version="18.1.1" type="github">
   <diagram id="sIMneq1X15ZrJVdeWBK4" name="Page-1">
-    <mxGraphModel dx="2037" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3105" dy="1411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,7 +44,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ae2RFYdZyI68Ix3t2ft8-2" value="Firebase Auth" style="whiteSpace=wrap;html=1;imageAspect=0;" parent="1" vertex="1">
+        <mxCell id="Ae2RFYdZyI68Ix3t2ft8-2" value="Firebase Auth/Storage" style="whiteSpace=wrap;html=1;imageAspect=0;" parent="1" vertex="1">
           <mxGeometry x="95" y="400" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ae2RFYdZyI68Ix3t2ft8-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0.326;entryY=0.985;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Ae2RFYdZyI68Ix3t2ft8-3" target="Ae2RFYdZyI68Ix3t2ft8-9" edge="1">
